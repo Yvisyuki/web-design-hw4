@@ -1,0 +1,503 @@
+@media only screen and (max-width: 320px) {
+    
+    html{
+
+        width: 320px;
+height: 1900px;
+background: transparent radial-gradient(closest-side at 50% 50%, #758FD9 0%, #304171 62%, #061232 100%) 0% 0% no-repeat padding-box;
+opacity: 1;
+    
+    
+    }
+    
+    body{
+        margin: 0;
+        padding: 0;
+    }
+    
+    header{
+        margin: 0;
+        padding: 0;
+    }
+    
+    a { 
+        color: inherit; 
+        text-decoration: none;
+    }
+    
+     .languages{
+        margin: 0;
+        padding: 0;
+        text-align: left;
+        font-family: 'Arial BLACK';
+        letter-spacing: 0;
+        color: #F5F5F5;
+        opacity: 1;
+        padding-left: 25px;
+        padding-top: 16px;
+        font-size: 8px;
+    
+    }
+    ul{
+        margin: 0;
+        padding: 0;
+    }
+    
+    .line1{
+        margin: 0;
+        padding: 0;
+        top: 29px;
+        left: 20px;
+        width: 35px;
+        border: 1.5px solid #FFFFFF;
+        opacity: 1;
+        stroke-linecap: round;
+        margin-left: 25px;
+        border-radius: 25px;
+    
+    }
+    
+    .titlewithlogo{
+        display: flex;
+        flex-direction: row;
+    }
+    
+    .imglogo{
+        width: 79px;
+        height: 77px;
+        padding: 0;
+        margin: 0;
+        margin-top: 435px;
+        padding-left: 20px;
+    }
+    
+    .witso{
+        margin: 0;
+        padding: 0;
+        top: 325px;
+        left: 219px;
+        font-family:'Agency FB Bold', arial;
+        font-size: 40px;
+        text-align: left;
+        letter-spacing: 9px;
+        color: #FFFFFF;
+        opacity: 0.92;
+        margin-left: 25px;
+        margin-top: 443px;
+        transition: ease-in-out;
+    
+        
+    }
+    
+    .info{
+        display: none;
+    }
+    
+    .scrollnametag{
+        display: none;
+    }
+    
+    .title-phrase{
+        margin: 0;
+        padding: 0;
+        width: 405px;
+        height: 48px;
+        text-align: left;
+        font-family: 'Arial BLACK';
+        letter-spacing: 0;
+        color: #F7F7F7;
+        opacity: 0.92;
+        font-size: 10px;
+        margin-left: -230px ;
+        margin-top: 495px;
+    }
+    
+    .info2{
+        display: none;
+        
+    }
+    
+    .i2context{
+        margin:0;
+        padding: 0;
+        display: flex;
+        vertical-align: top;
+        align-content: flex-start;
+    }
+    
+    .trianglething{
+        margin:0;
+        padding: 0;
+        height: 15px;
+        margin-right: 10px;
+        margin-top: 7px;
+        
+    }
+    
+    .infospace{
+        padding: 0;
+        margin: 0;
+        padding-right: 150px;
+    }
+    
+    .bg2{
+        margin: 0;
+        padding: 0;
+        margin-top: 14px;
+        width: 320px;
+        height: 1540px;
+        background: #0D142A 0% 0% no-repeat padding-box;
+        opacity: 1;
+    }
+    
+    .title1{
+        margin: 0;
+        padding: 0;
+        font-family:'Agency FB Bold', arial;
+        font-size: 28px;
+        color: white;
+        padding-top: 17px;
+        padding-bottom: 17px;
+        padding-left: 33px;
+        letter-spacing: 10.14px;
+    }
+    
+    .box1{
+        background: #010214 0% 0% no-repeat padding-box;
+        opacity: 1;
+    }
+    
+    box4{
+        display: flex;
+    }
+
+    .content1box{
+        margin:0;
+        padding:0;
+        display: flex;
+        flex-direction: row;
+    }
+    
+    .content1{
+        margin: 0;
+        padding: 0;
+        width: 145px;
+        height: 63px;
+        text-align: left;
+        letter-spacing: 0;
+        color: #FFFFFF;
+        opacity: 1;
+        font-size:12px;
+        margin-top: 50px;
+        margin-left: 32px;
+        margin-bottom: 25px;
+        font-family:'Agency FB', arial;
+    }
+    
+    .img1{
+        width: 72px;
+        height: 117px;
+        margin: 0;
+        padding: 0;
+        margin-left:-10px;
+        margin-top: 35px;
+        margin-bottom: 25px;
+    }
+    
+    .subtitle1{
+        margin:0;
+        padding: 0;
+        margin-left: 27px;
+        top: 1455px;
+        left: 106px;
+        width: 534px;
+        height: 91px;
+        text-align: left;
+        font: Bold 55px/66px Agency FB;
+        letter-spacing: 3.98px;
+        color: #FFFFFF;
+        opacity: 1;
+        font-size: 20px;
+    }
+    
+    .line2{
+        margin: 0;
+        padding: 0;
+        margin-top: -615px;
+        margin-left: 694px;
+        margin-bottom: 400px;
+        width: 0px;
+        height: 173px;
+        border: 3px solid rgb(255, 255, 255);
+        opacity: 1;
+        stroke-linecap: round;
+        border-radius: 25px;
+      
+    }
+    
+    .line3{
+        margin: 0;
+        padding: 0;
+        margin-left: 20px;
+        margin-top:-35px;
+        left: 24px;
+        width: 270px;
+        height: 0px;
+        border: 3px solid #0A3473;
+        opacity: 1;
+    }
+    
+    .img2{
+        margin: 0;
+        padding: 0;
+        margin-top: 35px;
+        margin-left: 33px;
+        width: 50%;
+        height:  50%;
+    
+    }
+    
+    .stage1{
+        margin: 0;
+        padding: 0;
+        padding-top: 101px;
+        padding-left: 7px;
+        top: 1894px;
+        left: 778px;
+        width: 322px;
+        height: 61px;
+        text-align: left;
+        font-family:'Agency FB', arial;
+        letter-spacing: 0;
+        color: #FFFFFF;
+        opacity: 1;
+        font-size: 10px;
+    }
+    
+    .box2{
+        display: flex;
+    }
+    
+    .stage2{
+        margin: 0;
+        padding: 0;
+        padding-top: 88px;
+        padding-left:66px;
+        padding-right: 8px;
+        height: 61px;
+        text-align: left;
+        font-family:'Agency FB', arial;
+        font: Regular 55px/65px Agency FB;
+        letter-spacing: 0;
+        color: #FFFFFF;
+        opacity: 1;
+        font-size: 10px;
+    }
+    
+    
+    .img3{
+        margin: 0;
+        padding: 0;
+        margin-top:26px;
+        width: 50%;
+        height:  50%;
+    }
+        
+    .stage3{
+        margin: 0;
+        padding: 0;
+        padding-top: 86px;
+        padding-left: 7px;
+        height: 61px;
+        text-align: left;
+        font-family:'Agency FB', arial;
+        font: Regular 55px/65px Agency FB;
+        letter-spacing: 0;
+        color: #FFFFFF;
+        opacity: 1;
+        font-size: 10px;
+    }
+    
+    .img4{
+        margin: 0;
+        padding: 0;
+        margin-top:26px;
+        margin-left: 33px;
+        margin-bottom: 43px;
+        width: 50%;
+        height:  50%;
+    }
+    
+    .title2{
+        margin: 0;
+        padding: 0;
+        font-family:'Agency FB Bold', arial;
+        font-size: 28px;
+        color: white;
+        padding-top: 17px;
+        padding-bottom: 17px;
+        padding-left: 33px;
+        letter-spacing: 10.14px;
+    }
+    
+    .img5{
+        margin: 0;
+        padding: 0;
+        width: 258px;
+        height: 145px;
+        margin-top:15px;
+        margin-bottom:15px;
+        margin-left: 31px;
+    }
+    
+    .context2{
+        margin: 0;
+        padding: 0;
+        font-size: 10px;
+        padding-top: 180px;
+        margin-left: -250px;
+        width: 254px;
+        height: 56px;
+        text-align: left;
+        font: SemiCondensed 30px/42px Bahnschrift;
+        letter-spacing: 0;
+        color: #FFFFFF;
+        opacity: 1;
+        font-family:'Agency FB', arial;
+    }
+    
+    .subtitle2{
+        margin:0;
+        padding: 0;
+        margin-left: 27px;
+        top: 1455px;
+        left: 106px;
+        width: 534px;
+        height: 91px;
+        text-align: left;
+        font: Bold 55px/66px Agency FB;
+        letter-spacing: 3.98px;
+        color: #FFFFFF;
+        opacity: 1;
+        font-size: 20px;
+    }
+    
+    .img6{  
+        margin: 0;
+        padding: 0;
+        width: 85%;
+        height: 85%;
+        margin-left: 25px;
+        margin-top: 18px;
+        margin-bottom: 23px;
+    }
+    
+    .context4{
+        margin: 0;
+        padding: 0;
+        margin-top: 19px;
+        margin-left: 10px;
+        text-align: center;
+        letter-spacing: 3px;
+        color: #FFFFFF;
+        opacity: 1;
+        font-size: 10px;
+        font-family:'Agency FB', arial;
+        
+    }
+    
+    .hotmail{
+        margin: 0;
+        padding: 0;
+        margin-top: 19px;
+        margin-left: 104px;
+        width: 116px;
+        height: 15px;
+        text-align: center;
+        letter-spacing: 3px;
+        color: #FFFFFF;
+        opacity: 1;
+        font-size: 10px;
+        font-family:'Agency FB', arial;
+    }
+    
+    .box3{
+        background: #010214 0% 0% no-repeat padding-box;
+        opacity: 1;
+    }
+    
+    .contact-fb{
+        margin: 0;
+        padding: 0;
+        margin-top: 9px;
+        margin-left: 11px;
+        width: 54px;
+        height: 12px;
+        text-align: left;
+        font-family:'Agency FB', arial;
+        font-size: 12px;
+        letter-spacing: 0;
+        color: #FFFFFF;
+        opacity: 1;
+    }
+    
+    .fbbox{
+        display: flex;
+    }
+    
+    .fbicon{
+        padding: 0;
+        margin: 0;
+        width: 10px;
+        height: 10px;
+        margin-top: 9px;
+        margin-left: 231px;
+    }
+    
+    .line4{
+        margin: 0;
+        padding: 0;
+        margin-top: 5px;
+        margin-left: 230px;
+        width: 75px;      
+        height: 0px;
+        border: 1px solid #FFFFFF;
+        opacity: 1;
+        stroke-linecap: round;
+        border-radius: 25px;
+        
+    }
+    
+    .igbox{
+        display: flex;
+    }
+    
+    .igicon{
+        padding: 0;
+        margin: 0;
+        width: 10px;
+        height: 10px;
+        margin-top: 5px;
+        margin-left: 231px;
+        margin-bottom: 11px;
+    }
+    
+    .contact-ig{
+        margin: 0;
+        padding: 0;
+        margin-top: 5px;
+        margin-left: 11px;
+        margin-bottom: 11px;
+        width: 54px;
+        height: 12px;
+        text-align: left;
+        font-family:'Agency FB', arial;
+        font-size: 12px;
+        letter-spacing: 0;
+        color: #FFFFFF;
+        opacity: 1;
+    }
+    
+
+}
+
